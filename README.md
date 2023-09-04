@@ -46,7 +46,8 @@ limitations under the License.
 !! The code also contains the "DeePC" implementation, If you are using it in your research or teaching, 
    please include explicit mention of this software and of our paper:
 
-@article{markovsky2022data,\\
+@article{markovsky2022data,
+
   title={Data-driven control based on the behavioral approach: From theory to applications in power systems},
   author={Markovsky, Ivan and Huang, Linbin and D{\"o}rfler, Florian},
   journal={IEEE Control Systems},
