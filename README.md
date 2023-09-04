@@ -47,8 +47,7 @@ limitations under the License.
    please include explicit mention of this software and of our paper:
 
 @article{markovsky2022data,
-
-  title={Data-driven control based on the behavioral approach: From theory to applications in power systems},
+title={Data-driven control based on the behavioral approach: From theory to applications in power systems},
   author={Markovsky, Ivan and Huang, Linbin and D{\"o}rfler, Florian},
   journal={IEEE Control Systems},
   year={2023}
